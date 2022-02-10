@@ -1,0 +1,1986 @@
+{
+  "courseWishes": [
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WTAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "c13781c2319cec981784700d2fa5a277"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "3fa660df7630bc054922721f94f945c6"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "069af0236065e99777c11dad398362c0"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 4,
+          "isRepeater": true
+        },
+        {
+          "code": "VCAT1",
+          "priority": 5,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 2,
+      "user": "d8a834cb66cdfb8dbbad6c0b892c6784"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "fee6f147db372bbaa11c21ef8adeef0a"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "VCAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "46213f5717cf070aef62a007f1e412db"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 5,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 6,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 6,
+      "user": "be3f8009d6016edd71564d14cd11b72e"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "c7bd170c783f09ee74b916d1338ce87e"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 1,
+      "user": "a1c2285aaf0c6ee621d59550c6d070b3"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 3,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 1,
+      "user": "141a739267007c5b4beb20f3729861e2"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "VCAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "f832944cb1e5f026ed1e8a26c0ec4c6a"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 4,
+          "isRepeater": true
+        },
+        {
+          "code": "VCAT1",
+          "priority": 5,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 3,
+      "user": "4fcd5881e85195a57c6484e4495b9dc0"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "WT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 5,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 2,
+      "user": "52c76c2c137727b4c852309f7e6bcf0d"
+    },
+    {
+      "isPreferred": false,
+      "program": "AI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "VCAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "7337a48b7a0ff809dea60e5f0ae8dc15"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 5,
+      "user": "370eeb254eb43f2a7f2b8800f0fe6271"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "VC1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 5,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 3,
+      "user": "3e9e5c196d2c201199bdfee258eb83cb"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "VC1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 2,
+      "user": "1725f7de28ba70d03b2a31e50eeec0f5"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "ca0822d726412aec84454ab34eb6c1e9"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "VCAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 2,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "ec3b7820cd22e1a7b2a0d0d9462bd57e"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "VC1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "85c411a63f9e0ebaad1033a5387dfc37"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "WT1",
+          "priority": 2,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 2,
+      "user": "6d5a9179450fdb943d2295215482cc34"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 4,
+      "user": "4be9c3f6df812aeee6fec95921ba261c"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 4,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "1e0bec7b945052f37aef0c88939887b9"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WTAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "e8aa8701646188bfbfc784173bd25fa0"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WTAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "d1274f7817a587d7966da92492c1a139"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 3,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "bc1e8eda08ea88a779bc8ff47cd5552f"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 2,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 2,
+      "user": "210eb909f4bf443fe83cb76384fb855e"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 3,
+      "user": "b8c214bf94282919eb7d0a4d55199a57"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 5,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 3,
+      "user": "642368902500c682f876fcc9c3dd3ce3"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "VC1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "90202e290d653c34e86f6303f54b79d7"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "WT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 4,
+          "isRepeater": true
+        },
+        {
+          "code": "VC1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "3cad193016488005f6e4948be435cc54"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "c2bf7be822c985ec45fab6a6f534b2f6"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "95049660e868e51a789822083c860418"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "ad182850c8f803e9d8f051c87d04bc6b"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "76232b89a7e7a558ddc2fb56085c29de"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 1,
+      "user": "49e0e32b3408d176b2e1f848e66681dd"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "448c92684f56eed908f1008c63a72800"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "fccb992f780e60a4c6d480b596b29f6f"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 4,
+          "isRepeater": true
+        },
+        {
+          "code": "VC1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "2f562a739129a03796e0eb8fb4522170"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 2,
+      "user": "82d741f948d7faa689334ccce5313dd8"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "WT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GTAT1",
+          "priority": 3,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 1,
+      "user": "b89e22de1f6c5d3065b0b210b2c7d923"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "VCAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "WT1",
+          "priority": 2,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 4,
+      "user": "0f0952375a6ebcdf11066c098ac8a83b"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 3,
+          "isRepeater": true
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 5,
+      "user": "3dca29786e501f4c5d11a252d923a54a"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 3,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 3,
+      "user": "07be1b785c053517d0bf2a5793bdfcdf"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "c5dd24711a91f7a648e4246efc1ee310"
+    },
+    {
+      "isPreferred": true,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "GT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 5,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 5,
+      "user": "bbe12bbd891eae72c5b0ce3ea514f0a7"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 1,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "VCAT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "VC1",
+          "priority": 4,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 3,
+      "user": "d61558d1556e85907ff320d1f79f0a5f"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "VC1",
+          "priority": 1,
+          "isRepeater": true
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "GT1",
+          "priority": 3,
+          "isRepeater": false
+        },
+        {
+          "code": "GTAT1",
+          "priority": 4,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 4,
+      "user": "999d76575ad04dbeeb2fcfc89ebeb908"
+    },
+    {
+      "isPreferred": false,
+      "program": "AI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GTAT1",
+          "priority": 1,
+          "isRepeater": false
+        }
+      ],
+      "maxCourses": 1,
+      "user": "61c8f4b89b8d4eea8556b0ee953c4894"
+    },
+    {
+      "isPreferred": false,
+      "program": "IMI-B",
+      "semester": 5,
+      "bookedCourses": [
+        {
+          "code": "GT1",
+          "priority": 1,
+          "isRepeater": false
+        },
+        {
+          "code": "WTAT1",
+          "priority": 2,
+          "isRepeater": false
+        },
+        {
+          "code": "WT1",
+          "priority": 3,
+          "isRepeater": true
+        }
+      ],
+      "maxCourses": 2,
+      "user": "9fae6f87b08e521a61b8d2a4c818282b"
+    }
+  ],
+  "solution": {
+    "GT1": [
+      {
+        "priority": 2,
+        "user": "bbe12bbd891eae72c5b0ce3ea514f0a7"
+      },
+      {
+        "priority": 1,
+        "user": "ad182850c8f803e9d8f051c87d04bc6b"
+      },
+      {
+        "priority": 1,
+        "user": "448c92684f56eed908f1008c63a72800"
+      },
+      {
+        "priority": 1,
+        "user": "a1c2285aaf0c6ee621d59550c6d070b3"
+      },
+      {
+        "priority": 1,
+        "user": "c5dd24711a91f7a648e4246efc1ee310"
+      },
+      {
+        "priority": 1,
+        "user": "3fa660df7630bc054922721f94f945c6"
+      },
+      {
+        "priority": 1,
+        "user": "be3f8009d6016edd71564d14cd11b72e"
+      },
+      {
+        "priority": 1,
+        "user": "9fae6f87b08e521a61b8d2a4c818282b"
+      },
+      {
+        "priority": 1,
+        "user": "fccb992f780e60a4c6d480b596b29f6f"
+      },
+      {
+        "priority": 1,
+        "user": "4be9c3f6df812aeee6fec95921ba261c"
+      },
+      {
+        "priority": 1,
+        "user": "c2bf7be822c985ec45fab6a6f534b2f6"
+      },
+      {
+        "priority": 1,
+        "user": "3dca29786e501f4c5d11a252d923a54a"
+      },
+      {
+        "priority": 1,
+        "user": "4fcd5881e85195a57c6484e4495b9dc0"
+      },
+      {
+        "priority": 2,
+        "user": "bc1e8eda08ea88a779bc8ff47cd5552f"
+      },
+      {
+        "priority": 2,
+        "user": "c13781c2319cec981784700d2fa5a277"
+      },
+      {
+        "priority": 2,
+        "user": "07be1b785c053517d0bf2a5793bdfcdf"
+      },
+      {
+        "priority": 2,
+        "user": "46213f5717cf070aef62a007f1e412db"
+      },
+      {
+        "priority": 2,
+        "user": "d8a834cb66cdfb8dbbad6c0b892c6784"
+      },
+      {
+        "priority": 3,
+        "user": "b8c214bf94282919eb7d0a4d55199a57"
+      },
+      {
+        "priority": 3,
+        "user": "0f0952375a6ebcdf11066c098ac8a83b"
+      }
+    ],
+    "GTAT1": [
+      {
+        "priority": 1,
+        "user": "bbe12bbd891eae72c5b0ce3ea514f0a7"
+      },
+      {
+        "priority": 1,
+        "user": "c7bd170c783f09ee74b916d1338ce87e"
+      },
+      {
+        "priority": 1,
+        "user": "d8a834cb66cdfb8dbbad6c0b892c6784"
+      },
+      {
+        "priority": 1,
+        "user": "07be1b785c053517d0bf2a5793bdfcdf"
+      },
+      {
+        "priority": 1,
+        "user": "52c76c2c137727b4c852309f7e6bcf0d"
+      },
+      {
+        "priority": 1,
+        "user": "1e0bec7b945052f37aef0c88939887b9"
+      },
+      {
+        "priority": 1,
+        "user": "bc1e8eda08ea88a779bc8ff47cd5552f"
+      },
+      {
+        "priority": 2,
+        "user": "4fcd5881e85195a57c6484e4495b9dc0"
+      },
+      {
+        "priority": 2,
+        "user": "d1274f7817a587d7966da92492c1a139"
+      },
+      {
+        "priority": 2,
+        "user": "3dca29786e501f4c5d11a252d923a54a"
+      },
+      {
+        "priority": 2,
+        "user": "ad182850c8f803e9d8f051c87d04bc6b"
+      },
+      {
+        "priority": 2,
+        "user": "ca0822d726412aec84454ab34eb6c1e9"
+      },
+      {
+        "priority": 3,
+        "user": "4be9c3f6df812aeee6fec95921ba261c"
+      },
+      {
+        "priority": 3,
+        "user": "be3f8009d6016edd71564d14cd11b72e"
+      },
+      {
+        "priority": 3,
+        "user": "448c92684f56eed908f1008c63a72800"
+      },
+      {
+        "priority": 3,
+        "user": "3fa660df7630bc054922721f94f945c6"
+      },
+      {
+        "priority": 4,
+        "user": "999d76575ad04dbeeb2fcfc89ebeb908"
+      },
+      {
+        "priority": 4,
+        "user": "642368902500c682f876fcc9c3dd3ce3"
+      },
+      {
+        "priority": 4,
+        "user": "c13781c2319cec981784700d2fa5a277"
+      },
+      {
+        "priority": 1,
+        "user": "6d5a9179450fdb943d2295215482cc34"
+      },
+      {
+        "priority": 2,
+        "user": "7337a48b7a0ff809dea60e5f0ae8dc15"
+      },
+      {
+        "priority": 2,
+        "user": "85c411a63f9e0ebaad1033a5387dfc37"
+      },
+      {
+        "priority": 1,
+        "user": "fee6f147db372bbaa11c21ef8adeef0a"
+      },
+      {
+        "priority": 1,
+        "user": "2f562a739129a03796e0eb8fb4522170"
+      },
+      {
+        "priority": 1,
+        "user": "069af0236065e99777c11dad398362c0"
+      },
+      {
+        "priority": 1,
+        "user": "210eb909f4bf443fe83cb76384fb855e"
+      },
+      {
+        "priority": 2,
+        "user": "90202e290d653c34e86f6303f54b79d7"
+      },
+      {
+        "priority": 2,
+        "user": "3cad193016488005f6e4948be435cc54"
+      },
+      {
+        "priority": 4,
+        "user": "3e9e5c196d2c201199bdfee258eb83cb"
+      },
+      {
+        "priority": 4,
+        "user": "370eeb254eb43f2a7f2b8800f0fe6271"
+      },
+      {
+        "priority": 4,
+        "user": "82d741f948d7faa689334ccce5313dd8"
+      },
+      {
+        "priority": 5,
+        "user": "76232b89a7e7a558ddc2fb56085c29de"
+      },
+      {
+        "priority": 1,
+        "user": "61c8f4b89b8d4eea8556b0ee953c4894"
+      }
+    ],
+    "VC1": [
+      {
+        "priority": 4,
+        "user": "bbe12bbd891eae72c5b0ce3ea514f0a7"
+      },
+      {
+        "priority": 1,
+        "user": "999d76575ad04dbeeb2fcfc89ebeb908"
+      },
+      {
+        "priority": 1,
+        "user": "1725f7de28ba70d03b2a31e50eeec0f5"
+      },
+      {
+        "priority": 2,
+        "user": "642368902500c682f876fcc9c3dd3ce3"
+      },
+      {
+        "priority": 2,
+        "user": "c7bd170c783f09ee74b916d1338ce87e"
+      },
+      {
+        "priority": 2,
+        "user": "b8c214bf94282919eb7d0a4d55199a57"
+      },
+      {
+        "priority": 3,
+        "user": "c13781c2319cec981784700d2fa5a277"
+      },
+      {
+        "priority": 3,
+        "user": "c5dd24711a91f7a648e4246efc1ee310"
+      },
+      {
+        "priority": 3,
+        "user": "4fcd5881e85195a57c6484e4495b9dc0"
+      },
+      {
+        "priority": 3,
+        "user": "07be1b785c053517d0bf2a5793bdfcdf"
+      },
+      {
+        "priority": 4,
+        "user": "ad182850c8f803e9d8f051c87d04bc6b"
+      },
+      {
+        "priority": 4,
+        "user": "4be9c3f6df812aeee6fec95921ba261c"
+      },
+      {
+        "priority": 4,
+        "user": "3fa660df7630bc054922721f94f945c6"
+      },
+      {
+        "priority": 4,
+        "user": "3dca29786e501f4c5d11a252d923a54a"
+      },
+      {
+        "priority": 4,
+        "user": "be3f8009d6016edd71564d14cd11b72e"
+      },
+      {
+        "priority": 1,
+        "user": "90202e290d653c34e86f6303f54b79d7"
+      },
+      {
+        "priority": 1,
+        "user": "3e9e5c196d2c201199bdfee258eb83cb"
+      },
+      {
+        "priority": 2,
+        "user": "f832944cb1e5f026ed1e8a26c0ec4c6a"
+      }
+    ],
+    "VCAT1": [
+      {
+        "priority": 3,
+        "user": "bbe12bbd891eae72c5b0ce3ea514f0a7"
+      },
+      {
+        "priority": 1,
+        "user": "0f0952375a6ebcdf11066c098ac8a83b"
+      },
+      {
+        "priority": 2,
+        "user": "be3f8009d6016edd71564d14cd11b72e"
+      },
+      {
+        "priority": 2,
+        "user": "1e0bec7b945052f37aef0c88939887b9"
+      },
+      {
+        "priority": 2,
+        "user": "fccb992f780e60a4c6d480b596b29f6f"
+      },
+      {
+        "priority": 2,
+        "user": "c5dd24711a91f7a648e4246efc1ee310"
+      },
+      {
+        "priority": 2,
+        "user": "3fa660df7630bc054922721f94f945c6"
+      },
+      {
+        "priority": 2,
+        "user": "c2bf7be822c985ec45fab6a6f534b2f6"
+      },
+      {
+        "priority": 2,
+        "user": "52c76c2c137727b4c852309f7e6bcf0d"
+      },
+      {
+        "priority": 2,
+        "user": "e8aa8701646188bfbfc784173bd25fa0"
+      },
+      {
+        "priority": 3,
+        "user": "46213f5717cf070aef62a007f1e412db"
+      },
+      {
+        "priority": 3,
+        "user": "ca0822d726412aec84454ab34eb6c1e9"
+      },
+      {
+        "priority": 4,
+        "user": "c7bd170c783f09ee74b916d1338ce87e"
+      },
+      {
+        "priority": 5,
+        "user": "3dca29786e501f4c5d11a252d923a54a"
+      },
+      {
+        "priority": 4,
+        "user": "2f562a739129a03796e0eb8fb4522170"
+      },
+      {
+        "priority": 1,
+        "user": "f832944cb1e5f026ed1e8a26c0ec4c6a"
+      },
+      {
+        "priority": 1,
+        "user": "ec3b7820cd22e1a7b2a0d0d9462bd57e"
+      },
+      {
+        "priority": 2,
+        "user": "76232b89a7e7a558ddc2fb56085c29de"
+      },
+      {
+        "priority": 3,
+        "user": "370eeb254eb43f2a7f2b8800f0fe6271"
+      },
+      {
+        "priority": 3,
+        "user": "d61558d1556e85907ff320d1f79f0a5f"
+      },
+      {
+        "priority": 3,
+        "user": "82d741f948d7faa689334ccce5313dd8"
+      },
+      {
+        "priority": 3,
+        "user": "95049660e868e51a789822083c860418"
+      },
+      {
+        "priority": 4,
+        "user": "069af0236065e99777c11dad398362c0"
+      },
+      {
+        "priority": 4,
+        "user": "fee6f147db372bbaa11c21ef8adeef0a"
+      },
+      {
+        "priority": 4,
+        "user": "85c411a63f9e0ebaad1033a5387dfc37"
+      },
+      {
+        "priority": 1,
+        "user": "7337a48b7a0ff809dea60e5f0ae8dc15"
+      }
+    ],
+    "WT1": [
+      {
+        "priority": 5,
+        "user": "bbe12bbd891eae72c5b0ce3ea514f0a7"
+      },
+      {
+        "priority": 1,
+        "user": "b89e22de1f6c5d3065b0b210b2c7d923"
+      },
+      {
+        "priority": 1,
+        "user": "49e0e32b3408d176b2e1f848e66681dd"
+      },
+      {
+        "priority": 1,
+        "user": "642368902500c682f876fcc9c3dd3ce3"
+      },
+      {
+        "priority": 1,
+        "user": "46213f5717cf070aef62a007f1e412db"
+      },
+      {
+        "priority": 1,
+        "user": "ca0822d726412aec84454ab34eb6c1e9"
+      },
+      {
+        "priority": 2,
+        "user": "0f0952375a6ebcdf11066c098ac8a83b"
+      },
+      {
+        "priority": 3,
+        "user": "3dca29786e501f4c5d11a252d923a54a"
+      },
+      {
+        "priority": 3,
+        "user": "1e0bec7b945052f37aef0c88939887b9"
+      },
+      {
+        "priority": 4,
+        "user": "448c92684f56eed908f1008c63a72800"
+      },
+      {
+        "priority": 5,
+        "user": "be3f8009d6016edd71564d14cd11b72e"
+      },
+      {
+        "priority": 2,
+        "user": "6d5a9179450fdb943d2295215482cc34"
+      },
+      {
+        "priority": 1,
+        "user": "3cad193016488005f6e4948be435cc54"
+      },
+      {
+        "priority": 2,
+        "user": "141a739267007c5b4beb20f3729861e2"
+      },
+      {
+        "priority": 3,
+        "user": "069af0236065e99777c11dad398362c0"
+      }
+    ],
+    "WTAT1": [
+      {
+        "priority": 1,
+        "user": "d1274f7817a587d7966da92492c1a139"
+      },
+      {
+        "priority": 1,
+        "user": "e8aa8701646188bfbfc784173bd25fa0"
+      },
+      {
+        "priority": 1,
+        "user": "c13781c2319cec981784700d2fa5a277"
+      },
+      {
+        "priority": 1,
+        "user": "b8c214bf94282919eb7d0a4d55199a57"
+      },
+      {
+        "priority": 2,
+        "user": "4be9c3f6df812aeee6fec95921ba261c"
+      },
+      {
+        "priority": 2,
+        "user": "1725f7de28ba70d03b2a31e50eeec0f5"
+      },
+      {
+        "priority": 2,
+        "user": "999d76575ad04dbeeb2fcfc89ebeb908"
+      },
+      {
+        "priority": 2,
+        "user": "448c92684f56eed908f1008c63a72800"
+      },
+      {
+        "priority": 2,
+        "user": "9fae6f87b08e521a61b8d2a4c818282b"
+      },
+      {
+        "priority": 3,
+        "user": "bc1e8eda08ea88a779bc8ff47cd5552f"
+      },
+      {
+        "priority": 3,
+        "user": "c7bd170c783f09ee74b916d1338ce87e"
+      },
+      {
+        "priority": 3,
+        "user": "ad182850c8f803e9d8f051c87d04bc6b"
+      },
+      {
+        "priority": 4,
+        "user": "46213f5717cf070aef62a007f1e412db"
+      },
+      {
+        "priority": 4,
+        "user": "0f0952375a6ebcdf11066c098ac8a83b"
+      },
+      {
+        "priority": 5,
+        "user": "ca0822d726412aec84454ab34eb6c1e9"
+      },
+      {
+        "priority": 6,
+        "user": "be3f8009d6016edd71564d14cd11b72e"
+      },
+      {
+        "priority": 2,
+        "user": "3e9e5c196d2c201199bdfee258eb83cb"
+      },
+      {
+        "priority": 2,
+        "user": "fee6f147db372bbaa11c21ef8adeef0a"
+      }
+    ]
+  },
+  "availablePlaces": {
+    "GT1": 20,
+    "GTAT1": 36,
+    "VC1": 18,
+    "VCAT1": 36,
+    "WT1": 18,
+    "WTAT1": 18
+  }
+}
